@@ -1,0 +1,10 @@
+.build/
+.DS_Store
+.signing/
+*.app/
+*.keychain-db
+*.p12
+/build/
+/dist/
+/release/
+node_modules/
